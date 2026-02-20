@@ -13,6 +13,9 @@ The goal is for KoreShield to be the "security layer" for any LLM-powered enterp
 
 ### Related Research
 
+
+- [LLM-Firewall: A Lightweight Middleware Architecture for Real-Time Detection of Indirect Prompt Injection in Enterprise RAG System](https://www.academia.edu/164690692/LLM_Firewall_A_Lightweight_Middleware_Architecture_for_Real_Time_Detection_of_Indirect_Prompt_Injection_in_Enterprise_RAG_Systems)
+
 - [Preprint: LLM Firewall – A Novel Taxonomy of Indirect Prompt Injection Attacks in Enterprise RAG Systems](https://www.academia.edu/145685538/_Preprint_LLM_Firewall_A_Novel_Taxonomy_of_Indirect_Prompt_Injection_Attacks_in_Enterprise_RAG_Systems)
 
 ## Visit
