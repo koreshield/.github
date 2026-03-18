@@ -5,7 +5,7 @@
 
 ## About
 
-KoreShield is an open-source security platform designed to protect enterprise applications that use Large Language Models (LLMs) from prompt injection attacks. It sits transparently between your application and LLM API providers (OpenAI, Anthropic, Google Gemini, etc.), sanitizing inputs, detecting threats, and enforcing security policies before requests reach the model.
+KoreShield is a security platform designed to protect enterprise applications that use Large Language Models (LLMs) from prompt injection attacks. It sits transparently between your application and LLM API providers (OpenAI, Anthropic, Google Gemini, etc.), sanitizing inputs, detecting threats, and enforcing security policies before requests reach the model.
 
 This project is unified under the KoreShield brand, with all resources, SDKs, and documentation available at [koreshield.com](https://koreshield.com).
 
