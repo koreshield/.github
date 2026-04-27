@@ -20,4 +20,4 @@ The goal is for KoreShield to be the "security layer" for any LLM-powered enterp
 
 ## Visit
 
-www.koreshield.com
+www.koreshield.ai
